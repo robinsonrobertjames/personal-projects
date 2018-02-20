@@ -1,0 +1,9 @@
+ask-stack
+minimap
+atom-beautify
+file-icons
+highlight-selected
+script
+pigments
+expose
+todo-show
