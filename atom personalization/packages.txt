@@ -13,3 +13,4 @@ ide-json
 ide-php
 ide-python
 ide-html
+ide-typescript
