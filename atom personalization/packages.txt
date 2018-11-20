@@ -2,7 +2,14 @@ minimap
 atom-beautify
 file-icons
 highlight-selected
-script
 pigments
 expose
 todo-show
+atom-ide-ui
+ide-java
+atom-ide-debugger-python
+atom-clock
+ide-json
+ide-php
+ide-python
+ide-html
